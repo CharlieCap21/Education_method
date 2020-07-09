@@ -1,0 +1,10 @@
+D:\Інститут\Education_method\Education_method\bin\Debug\Education_method.exe.config
+D:\Інститут\Education_method\Education_method\bin\Debug\Education_method.exe
+D:\Інститут\Education_method\Education_method\bin\Debug\Education_method.pdb
+D:\Інститут\Education_method\Education_method\obj\Debug\Education_method.csprojAssemblyReference.cache
+D:\Інститут\Education_method\Education_method\obj\Debug\Education_method.Form1.resources
+D:\Інститут\Education_method\Education_method\obj\Debug\Education_method.Properties.Resources.resources
+D:\Інститут\Education_method\Education_method\obj\Debug\Education_method.csproj.GenerateResource.cache
+D:\Інститут\Education_method\Education_method\obj\Debug\Education_method.csproj.CoreCompileInputs.cache
+D:\Інститут\Education_method\Education_method\obj\Debug\Education_method.exe
+D:\Інститут\Education_method\Education_method\obj\Debug\Education_method.pdb
